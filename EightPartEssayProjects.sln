@@ -89,6 +89,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "041_括号生成", "041_括
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "042_排序链表", "042_排序链表\042_排序链表.vcxproj", "{B2581AD3-2FC3-42E5-A96E-5F342A02B4E9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "043_用栈实现队列", "043_用栈实现队列\043_用栈实现队列.vcxproj", "{5303FFDE-3FD1-4530-A1B9-2ED6E68A4384}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -441,6 +443,14 @@ Global
 		{B2581AD3-2FC3-42E5-A96E-5F342A02B4E9}.Release|x64.Build.0 = Release|x64
 		{B2581AD3-2FC3-42E5-A96E-5F342A02B4E9}.Release|x86.ActiveCfg = Release|Win32
 		{B2581AD3-2FC3-42E5-A96E-5F342A02B4E9}.Release|x86.Build.0 = Release|Win32
+		{5303FFDE-3FD1-4530-A1B9-2ED6E68A4384}.Debug|x64.ActiveCfg = Debug|x64
+		{5303FFDE-3FD1-4530-A1B9-2ED6E68A4384}.Debug|x64.Build.0 = Debug|x64
+		{5303FFDE-3FD1-4530-A1B9-2ED6E68A4384}.Debug|x86.ActiveCfg = Debug|Win32
+		{5303FFDE-3FD1-4530-A1B9-2ED6E68A4384}.Debug|x86.Build.0 = Debug|Win32
+		{5303FFDE-3FD1-4530-A1B9-2ED6E68A4384}.Release|x64.ActiveCfg = Release|x64
+		{5303FFDE-3FD1-4530-A1B9-2ED6E68A4384}.Release|x64.Build.0 = Release|x64
+		{5303FFDE-3FD1-4530-A1B9-2ED6E68A4384}.Release|x86.ActiveCfg = Release|Win32
+		{5303FFDE-3FD1-4530-A1B9-2ED6E68A4384}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
