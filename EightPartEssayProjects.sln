@@ -99,6 +99,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "047_数组_长度最小的�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "048_数组_旋转矩阵II_LC59", "048_数组_旋转矩阵II_LC59\048_数组_旋转矩阵II_LC59.vcxproj", "{490AB798-3AA6-4895-A518-A0DE9C5A1B2F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "049_链表_移除链表元素_Lc203", "049_链表_移除链表元素_Lc203\049_链表_移除链表元素_Lc203.vcxproj", "{7BD67EC7-2041-40D9-97A3-C270AE0D86AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -491,6 +493,14 @@ Global
 		{490AB798-3AA6-4895-A518-A0DE9C5A1B2F}.Release|x64.Build.0 = Release|x64
 		{490AB798-3AA6-4895-A518-A0DE9C5A1B2F}.Release|x86.ActiveCfg = Release|Win32
 		{490AB798-3AA6-4895-A518-A0DE9C5A1B2F}.Release|x86.Build.0 = Release|Win32
+		{7BD67EC7-2041-40D9-97A3-C270AE0D86AA}.Debug|x64.ActiveCfg = Debug|x64
+		{7BD67EC7-2041-40D9-97A3-C270AE0D86AA}.Debug|x64.Build.0 = Debug|x64
+		{7BD67EC7-2041-40D9-97A3-C270AE0D86AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{7BD67EC7-2041-40D9-97A3-C270AE0D86AA}.Debug|x86.Build.0 = Debug|Win32
+		{7BD67EC7-2041-40D9-97A3-C270AE0D86AA}.Release|x64.ActiveCfg = Release|x64
+		{7BD67EC7-2041-40D9-97A3-C270AE0D86AA}.Release|x64.Build.0 = Release|x64
+		{7BD67EC7-2041-40D9-97A3-C270AE0D86AA}.Release|x86.ActiveCfg = Release|Win32
+		{7BD67EC7-2041-40D9-97A3-C270AE0D86AA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
