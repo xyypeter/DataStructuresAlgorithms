@@ -107,6 +107,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "051_链表_反转链表_LC2
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "052_链表_两两交换链表中的节点_LC24", "052_链表_两两交换链表中的节点_LC24\052_链表_两两交换链表中的节点_LC24.vcxproj", "{1F4D9590-2182-4C38-96FE-49106EF92CB1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "053_链表_删除链表倒数第N个节点_LC19", "053_链表_删除链表倒数第N个节点_LC19\053_链表_删除链表倒数第N个节点_LC19.vcxproj", "{46C400A2-06AB-4712-A492-9B154E6A5253}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -531,6 +533,14 @@ Global
 		{1F4D9590-2182-4C38-96FE-49106EF92CB1}.Release|x64.Build.0 = Release|x64
 		{1F4D9590-2182-4C38-96FE-49106EF92CB1}.Release|x86.ActiveCfg = Release|Win32
 		{1F4D9590-2182-4C38-96FE-49106EF92CB1}.Release|x86.Build.0 = Release|Win32
+		{46C400A2-06AB-4712-A492-9B154E6A5253}.Debug|x64.ActiveCfg = Debug|x64
+		{46C400A2-06AB-4712-A492-9B154E6A5253}.Debug|x64.Build.0 = Debug|x64
+		{46C400A2-06AB-4712-A492-9B154E6A5253}.Debug|x86.ActiveCfg = Debug|Win32
+		{46C400A2-06AB-4712-A492-9B154E6A5253}.Debug|x86.Build.0 = Debug|Win32
+		{46C400A2-06AB-4712-A492-9B154E6A5253}.Release|x64.ActiveCfg = Release|x64
+		{46C400A2-06AB-4712-A492-9B154E6A5253}.Release|x64.Build.0 = Release|x64
+		{46C400A2-06AB-4712-A492-9B154E6A5253}.Release|x86.ActiveCfg = Release|Win32
+		{46C400A2-06AB-4712-A492-9B154E6A5253}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
