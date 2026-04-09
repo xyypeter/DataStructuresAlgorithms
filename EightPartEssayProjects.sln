@@ -119,6 +119,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "057_哈希表_两数之和_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "058_哈希表_四数相加II_LC454", "058_哈希表_四数相加II_LC454\058_哈希表_四数相加II_LC454.vcxproj", "{3FF8A7AC-CCD3-40CF-A481-71ADA8CBE87A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "059_哈希表_三数之和_LC15", "059_哈希表_三数之和_LC15\059_哈希表_三数之和_LC15.vcxproj", "{EA78CEBD-9E58-4D1B-8EE7-2150FED946CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -591,6 +593,14 @@ Global
 		{3FF8A7AC-CCD3-40CF-A481-71ADA8CBE87A}.Release|x64.Build.0 = Release|x64
 		{3FF8A7AC-CCD3-40CF-A481-71ADA8CBE87A}.Release|x86.ActiveCfg = Release|Win32
 		{3FF8A7AC-CCD3-40CF-A481-71ADA8CBE87A}.Release|x86.Build.0 = Release|Win32
+		{EA78CEBD-9E58-4D1B-8EE7-2150FED946CC}.Debug|x64.ActiveCfg = Debug|x64
+		{EA78CEBD-9E58-4D1B-8EE7-2150FED946CC}.Debug|x64.Build.0 = Debug|x64
+		{EA78CEBD-9E58-4D1B-8EE7-2150FED946CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{EA78CEBD-9E58-4D1B-8EE7-2150FED946CC}.Debug|x86.Build.0 = Debug|Win32
+		{EA78CEBD-9E58-4D1B-8EE7-2150FED946CC}.Release|x64.ActiveCfg = Release|x64
+		{EA78CEBD-9E58-4D1B-8EE7-2150FED946CC}.Release|x64.Build.0 = Release|x64
+		{EA78CEBD-9E58-4D1B-8EE7-2150FED946CC}.Release|x86.ActiveCfg = Release|Win32
+		{EA78CEBD-9E58-4D1B-8EE7-2150FED946CC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
